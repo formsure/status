@@ -20,8 +20,8 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://formsure.co/assets/img/logo.svg
-  name: Formsure
-  introTitle: "Create surveys, polls, and quizzes and get feedback at ease"
+  name: ""
+  introTitle: ""
   introMessage: ""
   navbar:
     - title: Status

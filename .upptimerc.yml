@@ -6,11 +6,11 @@ repo: status # Your GitHub repository name
 sites:
   - name: Website
     url: https://formsure.co
-  - name: API
+  - name: Formsure API
     url: https://api.formsure.co
     expectedStatusCodes:
      - 404
-  - name: Dashboard
+  - name: Formsure Dashboard
     url: https://app.formsure.co
 
 
@@ -19,8 +19,8 @@ status-website:
   cname: status.formsure.co
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://formsure.co/assets/img/logo.svg
-  name: ""
+  # logoUrl: https://formsure.co/assets/img/logo.svg
+  name: "Formsure"
   introTitle: ""
   introMessage: ""
   navbar:
@@ -29,5 +29,8 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+i18n:
+  footer: ""
+  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

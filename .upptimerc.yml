@@ -19,7 +19,7 @@ status-website:
   cname: status.formsure.co
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  # logoUrl: https://formsure.co/assets/img/logo.svg
+  logoUrl: https://formsure.co/assets/img/logo.svg
   name: "Formsure"
   introTitle: ""
   introMessage: ""

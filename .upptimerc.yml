@@ -21,7 +21,7 @@ status-website:
   cname: status.formsure.co
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://avatars0.githubusercontent.com/u/75302021?s=88&v=4
+  logoUrl: https://avatars0.githubusercontent.com/u/75302021?s=44&v=5
   logoHref: https://formsure.co
   favicon: https://formsure.co/assets/favicons/favicon-16x16.png?v=rMBOpxyMqM
   name: "Formsure"

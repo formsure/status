@@ -12,6 +12,8 @@ sites:
      - 404
   - name: Formsure Dashboard
     url: https://app.formsure.co
+  - name: Documentation
+    url: https://docs.formsure.co
 
 
 status-website:
@@ -21,7 +23,7 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://avatars0.githubusercontent.com/u/75302021?s=88&v=4
   logoHref: https://formsure.co
-  favicon: https://formsure.co/assets/favicons/favicon-32x32.png?v=rMBOpxyMqM
+  favicon: https://formsure.co/assets/favicons/favicon-16x16.png?v=rMBOpxyMqM
   name: "Formsure"
   introTitle: ""
   introMessage: ""

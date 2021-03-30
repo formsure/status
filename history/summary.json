@@ -5,17 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/formsure.co",
     "slug": "website",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 384,
-    "timeDay": 469,
-    "timeWeek": 1997,
-    "timeMonth": 741,
-    "timeYear": 384,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.99%",
+    "time": 382,
+    "timeDay": 205,
+    "timeWeek": 1992,
+    "timeMonth": 725,
+    "timeYear": 382,
+    "dailyMinutesDown": {
+      "2020-12-28": 9
+    }
   },
   {
     "name": "Formsure API",
@@ -23,17 +25,19 @@
     "icon": "https://favicons.githubusercontent.com/api.formsure.co",
     "slug": "formsure-api",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 606,
-    "timeDay": 663,
-    "timeWeek": 744,
-    "timeMonth": 594,
+    "timeDay": 683,
+    "timeWeek": 741,
+    "timeMonth": 597,
     "timeYear": 606,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-28": 9
+    }
   },
   {
     "name": "Formsure Dashboard",
@@ -41,17 +45,19 @@
     "icon": "https://favicons.githubusercontent.com/app.formsure.co",
     "slug": "formsure-dashboard",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 346,
-    "timeDay": 127,
-    "timeWeek": 217,
-    "timeMonth": 138,
+    "timeDay": 329,
+    "timeWeek": 235,
+    "timeMonth": 145,
     "timeYear": 346,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-28": 9
+    }
   },
   {
     "name": "Documentation",
@@ -65,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 145,
-    "timeWeek": 202,
-    "timeMonth": 127,
+    "timeDay": 181,
+    "timeWeek": 205,
+    "timeMonth": 129,
     "timeYear": 131,
     "dailyMinutesDown": {}
   }

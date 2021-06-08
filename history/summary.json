@@ -58,17 +58,19 @@
     "url": "https://docs.formsure.co",
     "icon": "https://favicons.githubusercontent.com/docs.formsure.co",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 152,
-    "timeDay": 94,
-    "timeWeek": 143,
-    "timeMonth": 135,
+    "timeDay": 95,
+    "timeWeek": 137,
+    "timeMonth": 134,
     "timeYear": 152,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   }
 ]

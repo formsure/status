@@ -1,7 +1,7 @@
-url: https://api.formsure.co
+url: https://api.formsure.co/api/heartbeat
 status: up
-code: 404
-responseTime: 664
-lastUpdated: 2021-06-18T23:10:52.959Z
+code: 200
+responseTime: 668
+lastUpdated: 2021-06-19T11:10:26.749Z
 startTime: Tue Dec 29 2020 02:27:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

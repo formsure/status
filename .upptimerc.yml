@@ -7,9 +7,7 @@ sites:
   - name: Website
     url: https://formsure.co
   - name: Formsure API
-    url: https://api.formsure.co
-    expectedStatusCodes:
-     - 404
+    url: https://api.formsure.co/api/heartbeat
   - name: Formsure Dashboard
     url: https://app.formsure.co
   - name: Documentation

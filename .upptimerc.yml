@@ -6,10 +6,12 @@ repo: status # Your GitHub repository name
 sites:
   - name: Website
     url: https://formsure.co
-  - name: Formsure API
-    url: https://api.formsure.co/api/heartbeat
+  - name: Fom.li - Formsure Forms
+    url: https://fom.li
   - name: Formsure Dashboard
     url: https://app.formsure.co
+  - name: Formsure API
+    url: https://api.formsure.co/api/heartbeat
   - name: Documentation
     url: https://docs.formsure.co
 

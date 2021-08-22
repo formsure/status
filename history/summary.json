@@ -40,18 +40,20 @@
     "url": "https://app.formsure.co",
     "icon": "https://favicons.githubusercontent.com/app.formsure.co",
     "slug": "formsure-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 261,
-    "timeDay": 366,
-    "timeWeek": 252,
-    "timeMonth": 181,
+    "timeDay": 251,
+    "timeWeek": 237,
+    "timeMonth": 179,
     "timeYear": 261,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-22": 0
+    }
   },
   {
     "name": "Formsure API",

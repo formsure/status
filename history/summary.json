@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 258,
-    "timeDay": 96,
-    "timeWeek": 96,
-    "timeMonth": 130,
+    "timeDay": 82,
+    "timeWeek": 98,
+    "timeMonth": 129,
     "timeYear": 258,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 309,
-    "timeDay": 196,
-    "timeWeek": 230,
-    "timeMonth": 250,
-    "timeYear": 309,
+    "time": 307,
+    "timeDay": 94,
+    "timeWeek": 222,
+    "timeMonth": 245,
+    "timeYear": 307,
     "dailyMinutesDown": {
       "2021-09-14": 26
     }
@@ -49,13 +49,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 125,
-    "timeWeek": 125,
-    "timeMonth": 135,
+    "timeDay": 238,
+    "timeWeek": 136,
+    "timeMonth": 138,
     "timeYear": 231,
-    "dailyMinutesDown": {
-      "2021-08-22": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Formsure API",
@@ -69,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 633,
-    "timeDay": 685,
+    "timeDay": 733,
     "timeWeek": 680,
-    "timeMonth": 674,
+    "timeMonth": 675,
     "timeYear": 633,
     "dailyMinutesDown": {}
   },
@@ -81,21 +79,17 @@
     "icon": "https://favicons.githubusercontent.com/docs.formsure.co",
     "slug": "documentation",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.98%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 165,
-    "timeDay": 129,
-    "timeWeek": 119,
-    "timeMonth": 304,
+    "timeDay": 156,
+    "timeWeek": 127,
+    "timeMonth": 307,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2021-10-27": 10,
-      "2021-10-26": 12,
-      "2021-08-21": 12,
-      "2021-08-20": 9,
       "2021-06-08": 51
     }
   }

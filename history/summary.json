@@ -4,18 +4,20 @@
     "url": "https://formsure.co",
     "icon": "https://favicons.githubusercontent.com/formsure.co",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 217,
-    "timeDay": 155,
-    "timeWeek": 145,
-    "timeMonth": 160,
-    "timeYear": 214,
-    "dailyMinutesDown": {}
+    "time": 218,
+    "timeDay": 397,
+    "timeWeek": 206,
+    "timeMonth": 175,
+    "timeYear": 215,
+    "dailyMinutesDown": {
+      "2022-03-19": 0
+    }
   },
   {
     "name": "Fom.li - Formsure Forms",

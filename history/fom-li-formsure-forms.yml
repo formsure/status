@@ -1,7 +1,7 @@
 url: https://fom.li
-status: up
-code: 200
-responseTime: 56
-lastUpdated: 2022-05-01T23:12:39.530Z
+status: down
+code: 500
+responseTime: 4070
+lastUpdated: 2022-05-02T07:56:18.201Z
 startTime: Fri Jul 23 2021 07:43:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

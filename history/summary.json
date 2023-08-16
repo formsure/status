@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 215,
-    "timeWeek": 137,
-    "timeMonth": 149,
+    "timeDay": 42,
+    "timeWeek": 129,
+    "timeMonth": 144,
     "timeYear": 174,
-    "dailyMinutesDown": {
-      "2022-08-16": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Fom.li - Formsure Forms",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 329,
-    "timeDay": 699,
-    "timeWeek": 261,
-    "timeMonth": 282,
+    "timeDay": 215,
+    "timeWeek": 233,
+    "timeMonth": 284,
     "timeYear": 342,
     "dailyMinutesDown": {
       "2023-06-06": 23,
@@ -56,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 300,
-    "timeDay": 620,
-    "timeWeek": 270,
-    "timeMonth": 188,
+    "timeDay": 75,
+    "timeWeek": 240,
+    "timeMonth": 185,
     "timeYear": 275,
     "dailyMinutesDown": {
       "2022-09-07": 20,
@@ -78,9 +76,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 630,
-    "timeDay": 666,
-    "timeWeek": 628,
-    "timeMonth": 615,
+    "timeDay": 577,
+    "timeWeek": 607,
+    "timeMonth": 611,
     "timeYear": 628,
     "dailyMinutesDown": {}
   },
@@ -95,10 +93,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 336,
-    "timeDay": 139,
-    "timeWeek": 175,
-    "timeMonth": 146,
+    "time": 334,
+    "timeDay": 245,
+    "timeWeek": 135,
+    "timeMonth": 148,
     "timeYear": 303,
     "dailyMinutesDown": {
       "2022-08-31": 44

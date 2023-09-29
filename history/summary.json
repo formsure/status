@@ -46,19 +46,19 @@
     "url": "https://app.formsure.co",
     "icon": "https://icons.duckduckgo.com/ip3/app.formsure.co.ico",
     "slug": "formsure-dashboard",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 271,
-    "timeDay": 128,
-    "timeWeek": 149,
-    "timeMonth": 171,
-    "timeYear": 208,
+    "time": 268,
+    "timeDay": 109,
+    "timeWeek": 140,
+    "timeMonth": 168,
+    "timeYear": 207,
     "dailyMinutesDown": {
-      "2023-09-29": 0
+      "2023-09-29": 15
     }
   },
   {

@@ -1,7 +1,7 @@
 url: https://app.formsure.co
-status: up
-code: 200
-responseTime: 61
-lastUpdated: 2023-09-28T23:09:49.385Z
+status: down
+code: 500
+responseTime: 195
+lastUpdated: 2023-09-29T14:08:16.684Z
 startTime: 2020-12-29T02:27:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>

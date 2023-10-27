@@ -4,19 +4,19 @@
     "url": "https://formsure.co",
     "icon": "https://icons.duckduckgo.com/ip3/formsure.co.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 207,
-    "timeDay": 7711,
-    "timeWeek": 2059,
-    "timeMonth": 696,
+    "timeDay": 5166,
+    "timeWeek": 1838,
+    "timeMonth": 677,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2023-10-27": 0
+      "2023-10-27": 8
     }
   },
   {

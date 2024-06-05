@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 218,
-    "timeDay": 183,
-    "timeWeek": 120,
+    "timeDay": 170,
+    "timeWeek": 135,
     "timeMonth": 136,
     "timeYear": 243,
     "dailyMinutesDown": {
@@ -32,13 +32,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
-    "timeDay": 101,
-    "timeWeek": 214,
-    "timeMonth": 197,
-    "timeYear": 281,
-    "dailyMinutesDown": {
-      "2023-06-06": 23
-    }
+    "timeDay": 162,
+    "timeWeek": 196,
+    "timeMonth": 191,
+    "timeYear": 280,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Formsure Dashboard",
@@ -51,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 155,
-    "timeDay": 138,
-    "timeWeek": 150,
-    "timeMonth": 192,
-    "timeYear": 143,
+    "time": 156,
+    "timeDay": 403,
+    "timeWeek": 156,
+    "timeMonth": 199,
+    "timeYear": 144,
     "dailyMinutesDown": {}
   },
   {
@@ -70,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 571,
-    "timeDay": 575,
-    "timeWeek": 558,
-    "timeMonth": 531,
+    "timeDay": 591,
+    "timeWeek": 577,
+    "timeMonth": 530,
     "timeYear": 551,
     "dailyMinutesDown": {}
   },
@@ -88,9 +86,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
-    "timeDay": 140,
-    "timeWeek": 90,
-    "timeMonth": 135,
+    "timeDay": 156,
+    "timeWeek": 101,
+    "timeMonth": 121,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2023-08-31": 19
